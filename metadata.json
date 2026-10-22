@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Business Suite",
+  "description": "Multi-company business management suite for customers, sales, operations, tasks, and invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
